@@ -7,3 +7,4 @@ tests/staticfiles_tests/project/documents/test/*txt text eol=lf
 # Make GitHub syntax-highlight .html files as Django templates
 *.html linguist-language=django
 gsdgsdgsdg
+fasdfafasdf
